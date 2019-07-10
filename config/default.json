@@ -1,0 +1,4 @@
+{
+  "mongoConn": "mongodb+srv://sandhukb:sandhu@meanweek1-1pyc0.mongodb.net/MERN?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
