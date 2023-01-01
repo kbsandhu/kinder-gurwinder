@@ -20,7 +20,7 @@
   "homepage": "https://github.com/2019-summer-meanstack/TaskApp#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "config": "^3.1.0",
+    "config": "^3.3.8",
     "cors": "^2.8.5",
     "cryptr": "^4.0.2",
     "express": "^4.16.4",
